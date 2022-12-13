@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently studying at BitCamp **https://www.bitcamp.ge/**
 
-- 👨‍💻 All of my projects are available at [AlexanderGrigoryan] (https://github.com/AlexanderGrigoryan)
+- 👨‍💻 All of my projects are available at [AlexanderGrigoryan](https://github.com/AlexanderGrigoryan)
 
-- 📫 How to reach me [Alexander Grigoryan] (https://www.linkedin.com/in/alexander-grigoryan/)
+- 📫 How to reach me [Alexander Grigoryan](https://www.linkedin.com/in/alexander-grigoryan/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
