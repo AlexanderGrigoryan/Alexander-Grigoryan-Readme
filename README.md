@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alexander Grigoryan</h1>
 <h3 align="center">Software Engineer from Georgia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikanozali&label=Profile%20views&color=3f5427&style=plastic" alt="nikanoza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexanderGrigoryanli&label=Profile%20views&color=3f5427&style=plastic" alt="AlexanderGrigoryan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikanoza" alt="nikanoza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexanderGrigoryan" alt="AlexanderGrigoryan" /></a> </p>
 
 - 🌱 I’m currently studying at BitCamp **https://www.bitcamp.ge/**
 
-- 👨‍💻 All of my projects are available at [nikanoza](https://github.com/nikanoza)
+- 👨‍💻 All of my projects are available at [AlexanderGrigoryan] (https://github.com/AlexanderGrigoryan)
 
-- 📫 How to reach me [nikanoza](https://www.linkedin.com/in/nika-nozadze-67b62a210)
+- 📫 How to reach me [Alexander Grigoryan] (https://www.linkedin.com/in/alexander-grigoryan/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
